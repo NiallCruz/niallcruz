@@ -22,4 +22,7 @@ I am a passionate IT student at Xavier University College, driven by a curiosity
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
+## Funfact
+- I really love race horses from East to West and North to Souths
+
 Thanks for stopping by!
